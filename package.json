@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A simple directive used in place of items being loaded & to show loading.",
   "author": "ribu singh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ribu-singh/NgxMatImageShimmer.git"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
